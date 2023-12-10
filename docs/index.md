@@ -28,11 +28,4 @@
 I do export dxf files right out of OpenSCAD. 
 And the text is exported in svg file 
 
-### Do see the boxing examples
-- [Include file](https://github.com/Fihl/LaserCutter2D/blob/main/Src/LaserCutter2D.scad)
-- [iceKeyer, a CW keyer](https://github.com/Fihl/LaserCutter2D/tree/main/Src/iceKeyer/)
-
-## The code
-The code will come later, when more menues and adjustments are done 
-
 ## <font face="Monotype Corsiva">Christen Fihl, Denmark  OZ1AAB</font>
