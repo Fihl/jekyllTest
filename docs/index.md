@@ -27,5 +27,3 @@
 ## Box laser cutting
 I do export dxf files right out of OpenSCAD. 
 And the text is exported in svg file 
-
-## <font face="Monotype Corsiva">Christen Fihl, Denmark  OZ1AAB</font>
