@@ -4,7 +4,6 @@ plugins:
 
 title: jekyllTest
 description: Short text
-theme: Fihl testing
 
 # https://github.com/pages-themes/leap-day 
 # https://stackoverflow.com/questions/57895117/how-to-use-theme-from-github-io-site-for-github-project-pages-sites
