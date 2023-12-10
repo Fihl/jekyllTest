@@ -1,0 +1,9 @@
+remote_theme: pages-themes/leap-day@v0.2.0
+plugins:
+- jekyll-remote-theme # add this line to the plugins list if you already have one
+
+title: jekyllTest
+description: Short text
+
+# https://github.com/pages-themes/leap-day 
+# https://stackoverflow.com/questions/57895117/how-to-use-theme-from-github-io-site-for-github-project-pages-sites
