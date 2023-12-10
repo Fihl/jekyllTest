@@ -3,7 +3,7 @@ plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
 
 title: jekyllTest
-description: Short text
+description: description...
 
 # https://github.com/pages-themes/leap-day 
 # https://stackoverflow.com/questions/57895117/how-to-use-theme-from-github-io-site-for-github-project-pages-sites
